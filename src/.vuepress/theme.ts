@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "billow.icu",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "小白",
+    url: "https://billow.icu",
   },
 
   iconAssets: "iconfont",
@@ -62,11 +62,11 @@ export default hopeTheme({
       "/zh/demo/encrypt.html": ["1234"],
     },
   },
-
+      
   plugins: {
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
+      serverURL: "https://fiwxuvdg.api.lncldglobal.com"
     },
 
     // all features are enabled for demo, only preserve features you need here
