@@ -21,11 +21,6 @@ features:
     link: https://theme-hope.vuejs.press/zh/guide/markdown/
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 |  版权所有 © <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2023002177号</a>
+footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 |  版权所有 © <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2023002177号</a>   |  本网站由  <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><span style="display:inline-block;width:35px"><img style="width:100%;" src="/upyun.png"></span></a>  提供CDN加速
 ---
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
