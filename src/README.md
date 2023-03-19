@@ -100,7 +100,7 @@ features:
     details: 包括图标支持、全屏按钮、返回顶部按钮等
     link: https://theme-hope.vuejs.press/zh/guide/feature/
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 |  版权所有 © 粤ICP备2023002177号
+footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 |  版权所有 © <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2023002177号</a>
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。
