@@ -6,12 +6,14 @@ heroImage: /logo.svg
 heroText: 浪里小白
 tagline: 时代巨浪里，小白副业修炼计划
 actions:
-  - text: 使用指南 💡
+  - text: 项目指南 💡
+    link: /demo/
+    type: primary
+    
+  - text: 导航 💡
     link: /demo/
     type: primary
 
-  - text: 文档
-    link: /guide/
 
 
 features:

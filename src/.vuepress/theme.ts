@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import {  zhNavbar } from "./navbar/index.js";
+import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "billow.icu",
@@ -18,11 +18,12 @@ export default hopeTheme({
 
   docsDir: "demo/theme-docs/src",
 
+
   locales: {
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -32,34 +33,15 @@ export default hopeTheme({
       footer: "默认页脚",
 
       displayFooter: true,
-
       // page meta
       metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
+        editLink: "在 GitHub 上编辑此页"
     },
-    "/": {
-      // navbar
-      navbar: enNavbar,
-
-      // sidebar
-      sidebar: enSidebar,
-
-      footer: "Default footer",
-
-      displayFooter: true,
-
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
-
-  },
+  }},
 
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
     },
   },
       
