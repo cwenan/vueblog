@@ -66,7 +66,7 @@ export default hopeTheme({
   plugins: {
     comment: {
       provider: "Waline",
-      serverURL: "https://fiwxuvdg.api.lncldglobal.com"
+      serverURL: "https://mywaline-sandy.vercel.app/"
     },
 
     // all features are enabled for demo, only preserve features you need here
