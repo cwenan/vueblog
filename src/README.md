@@ -10,9 +10,13 @@ actions:
     link: /demo/
     type: primary
     
-  - text: 导航 💡
+  - text: 资讯 
     link: /demo/
-    type: primary
+    type: default
+
+  - text: 导航
+    link: /demo/
+    type: default
 
 
 
