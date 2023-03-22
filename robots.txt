@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://billow.icu/vueblog/sitemap.xml
+Sitemap: https://billow.icu/sitemap.xml
