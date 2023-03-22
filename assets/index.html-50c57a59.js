@@ -1,0 +1,1 @@
+import{_ as t,W as n,X as _,$ as e}from"./framework-500041d8.js";const c={},l=e("ul",null,[e("li",null,[e("a",{href:"ChatGPT"},"ChatGPT")])],-1),o=[l];function s(a,r){return n(),_("div",null,o)}const d=t(c,[["render",s],["__file","index.html.vue"]]);export{d as default};
